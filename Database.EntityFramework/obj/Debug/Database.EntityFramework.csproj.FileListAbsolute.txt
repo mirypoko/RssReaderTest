@@ -1,0 +1,15 @@
+C:\Users\miryp\source\repos\RssReader\Database.EntityFramework\bin\Debug\Database.EntityFramework.dll.config
+C:\Users\miryp\source\repos\RssReader\Database.EntityFramework\bin\Debug\Database.EntityFramework.dll
+C:\Users\miryp\source\repos\RssReader\Database.EntityFramework\bin\Debug\Database.EntityFramework.pdb
+C:\Users\miryp\source\repos\RssReader\Database.EntityFramework\bin\Debug\Domain.dll
+C:\Users\miryp\source\repos\RssReader\Database.EntityFramework\bin\Debug\EntityFramework.dll
+C:\Users\miryp\source\repos\RssReader\Database.EntityFramework\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\miryp\source\repos\RssReader\Database.EntityFramework\bin\Debug\Domain.pdb
+C:\Users\miryp\source\repos\RssReader\Database.EntityFramework\bin\Debug\EntityFramework.xml
+C:\Users\miryp\source\repos\RssReader\Database.EntityFramework\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\miryp\source\repos\RssReader\Database.EntityFramework\obj\Debug\Database.EntityFramework.csprojResolveAssemblyReference.cache
+C:\Users\miryp\source\repos\RssReader\Database.EntityFramework\obj\Debug\Database.EntityFramework.csproj.CoreCompileInputs.cache
+C:\Users\miryp\source\repos\RssReader\Database.EntityFramework\obj\Debug\Database.EntityFramework.dll
+C:\Users\miryp\source\repos\RssReader\Database.EntityFramework\obj\Debug\Database.EntityFramework.pdb
+C:\Users\miryp\source\repos\RssReader\Database.EntityFramework\obj\Debug\Database.EntityFramework.Migrations._0.resources
+C:\Users\miryp\source\repos\RssReader\Database.EntityFramework\obj\Debug\Database.EntityFramework.csproj.GenerateResource.Cache

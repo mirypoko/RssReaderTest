@@ -1,0 +1,5 @@
+C:\Users\miryp\source\repos\RssReader\Domain\bin\Debug\Domain.dll
+C:\Users\miryp\source\repos\RssReader\Domain\bin\Debug\Domain.pdb
+C:\Users\miryp\source\repos\RssReader\Domain\obj\Debug\Domain.csproj.CoreCompileInputs.cache
+C:\Users\miryp\source\repos\RssReader\Domain\obj\Debug\Domain.dll
+C:\Users\miryp\source\repos\RssReader\Domain\obj\Debug\Domain.pdb

@@ -1,0 +1,15 @@
+﻿@model IEnumerable<Domain.News>
+@{
+    Layout = null;
+}
+
+@foreach (var item in Model)
+{
+    <tr>
+        <td>@item.RssSource.Name</td>
+        <td>@item.Title</td>
+        <td>@Html.Raw(item.Description)</td>
+        <td>@item.Date</td>
+    </tr>
+}
+

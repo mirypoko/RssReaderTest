@@ -1,0 +1,5 @@
+C:\Users\miryp\source\repos\RssReader\Domain.Services.Interfaces\bin\Debug\Domain.Services.Interfaces.dll
+C:\Users\miryp\source\repos\RssReader\Domain.Services.Interfaces\bin\Debug\Domain.Services.Interfaces.pdb
+C:\Users\miryp\source\repos\RssReader\Domain.Services.Interfaces\obj\Debug\Domain.Services.Interfaces.csproj.CoreCompileInputs.cache
+C:\Users\miryp\source\repos\RssReader\Domain.Services.Interfaces\obj\Debug\Domain.Services.Interfaces.dll
+C:\Users\miryp\source\repos\RssReader\Domain.Services.Interfaces\obj\Debug\Domain.Services.Interfaces.pdb

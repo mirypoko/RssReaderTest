@@ -1,0 +1,5 @@
+C:\Users\miryp\source\repos\RssReader\Shared\bin\Debug\Shared.dll
+C:\Users\miryp\source\repos\RssReader\Shared\bin\Debug\Shared.pdb
+C:\Users\miryp\source\repos\RssReader\Shared\obj\Debug\Shared.csproj.CoreCompileInputs.cache
+C:\Users\miryp\source\repos\RssReader\Shared\obj\Debug\Shared.dll
+C:\Users\miryp\source\repos\RssReader\Shared\obj\Debug\Shared.pdb
