@@ -7,6 +7,7 @@ using System.ServiceModel.Syndication;
 using Domain;
 using Domain.Services.Interfaces;
 using Services.Interfaces;
+using System.Text.RegularExpressions;
 
 namespace Services
 {
@@ -35,6 +36,10 @@ namespace Services
 
         public async Task<ServiceResult> AddSourceAsync(RssSource rssSource)
         {
+            if(!ValidateUrl(rssSource.Url))
+            {
+                return new ServiceResult(false, "Invalid Url");
+            }
             try
             {
                 _sourceRepository.Add(rssSource);
@@ -106,6 +111,12 @@ namespace Services
         {
             SourcesCache = await _sourceRepository.ToListAsync();
             return SourcesCache;
+        }
+
+        private bool ValidateUrl(string url)
+        {
+            Regex regex = new Regex(@"(http|https):\/\/[\w\-_]+(\.[\w\-_]+)+([\w\-\.,@?^=%&amp;:/~\+#]*[\w\-\@?^=%&amp;/~\+#])?");
+            return regex.IsMatch(url);
         }
 
         private async Task AddNewsToRepositoryIfNotExist(RssSource source, News newsItem)
